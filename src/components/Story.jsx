@@ -18,7 +18,7 @@ function Story() {
               <img 
                 alt="The architectural beauty of Sukkur" 
                 className="w-full h-full object-cover transition-transform duration-700 hover:scale-105" 
-                src="/assets/images/heritage_story.jpg"
+                src="/assets/images/heritage_story.png"
               />
             </div>
             
