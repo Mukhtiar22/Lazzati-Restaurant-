@@ -6,7 +6,7 @@ This application is built using **React**, **Vite**, and **Tailwind CSS**, trans
 
 ---
 
-## 🍽️ Brand & Design Philosophy
+## 🍽️ Brand Identify & Design Philosophy
 Lazzati blends ancestral culinary traditions with refined modern gastronomy. The interface design reflects this harmony:
 - **Color Palette:** Rich Terracotta Orange (`#c35a33`), Warm Sand (`#fcf9f3`), and Umber Charcoal (`#14110f`) dark elements.
 - **Architectural Motifs:** Clean curved UI components and structural arches inspired by the historic Sukkur Barrage and Lab-e-Mehran riverfront.
