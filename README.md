@@ -2,7 +2,7 @@
 
 A premium, highly aesthetic, and responsive single-page marketing website for **Lazzati Restaurant**, located in the historic city of Sukkur, Sindh, Pakistan. 
 
-This application is built using **React**, **Vite**, and **Tailwind CSS**, translating the rich architectural lines and traditional flavors of the Indus Valley into a modern, minimalist digital experience.
+This application is built using **React**, **Vite**,, translating the rich architectural lines and traditional flavors of the Indus Valley into a modern, minimalist digital experience.
 
 ---
 
